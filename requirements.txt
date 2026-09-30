@@ -1,0 +1,6 @@
+# App runtime only (Streamlit Community Cloud installs this file). Pinned to the versions tested.
+streamlit==1.64.0
+duckdb==1.5.6
+pandas==3.0.2
+plotly==7.1.0
+pyarrow==25.0.1

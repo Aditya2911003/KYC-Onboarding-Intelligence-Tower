@@ -1,0 +1,7 @@
+# Résumé bullets (each provable from the repository)
+
+* Built a DuckDB SQL warehouse (staging → star schema → marts → analysis) over 14 synthetic KYC files (623 MB, 100,000 cases) with a one-command, seed-fixed pipeline that runs in ~30 s and exports 2.7 MB of Parquet marts. *(etl/build_warehouse.py, sql/)*
+* Recovered and codified a 5-rule onboarding policy that reconciles with 100% of 100,000 labelled decisions, and surfaced a control gap: 74.9% of 63,001 approvals (47,157) passed despite failed identity or address verification. *(sql/02_model.sql, Controls page, tests/test_rules.py)*
+* Delivered a 13-page Power BI-style Streamlit dashboard with report-level slicers, click-to-cross-filter, drill-through to Customer 360, a what-if rule simulator and computed insight text; all SQL parameterised. *(app/)*
+* Engineered trust into the data: 78 automated data-quality checks (0 fail), a 74-item claimed-vs-measured audit (73 reproduced, 1 explained), and 86 pytest tests including Streamlit AppTest, run in GitHub Actions on a deterministic 1,000-customer sample. *(etl/quality_checks.py, tests/, .github/workflows/ci.yml)*
+* Ran two controlled ML experiments (HistGradientBoosting, SHAP with an additivity check) showing a model cannot beat the policy — 95.5% with policy fields vs 64.5% against a 63.0% baseline without them — and documented it instead of overselling. *(ml/, Model and method page)*

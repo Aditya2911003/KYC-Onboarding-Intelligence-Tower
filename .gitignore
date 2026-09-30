@@ -1,0 +1,23 @@
+# Raw data is never committed (synthetic, ~623 MB, not redistributed)
+data/raw/
+*.csv
+!data/sample/*.csv
+*.duckdb
+*.duckdb.wal
+archive.zip
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+*.egg-info/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/

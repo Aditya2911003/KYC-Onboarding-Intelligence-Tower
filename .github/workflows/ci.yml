@@ -1,0 +1,45 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  build-test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: requirements-dev.txt
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements-dev.txt
+
+      - name: Lint (ruff)
+        run: |
+          ruff check .
+          ruff format --check .
+
+      - name: ETL on the committed sample
+        run: python etl/build_warehouse.py --raw-dir data/sample --out-dir /tmp/marts
+
+      - name: ML experiments on the sample warehouse
+        run: python ml/decision_model.py --db /tmp/warehouse.duckdb --out-dir /tmp/marts
+
+      - name: Tests against the sample-built warehouse
+        env:
+          KYC_TEST_MARTS_DIR: /tmp/marts
+          KYC_TEST_DB: /tmp/warehouse.duckdb
+        run: python -m pytest -q --ignore=tests/test_app_smoke.py
+
+      - name: Streamlit AppTest smoke test against the committed marts
+        run: python -m pytest -q tests/test_app_smoke.py

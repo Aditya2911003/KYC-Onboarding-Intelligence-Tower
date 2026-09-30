@@ -1,0 +1,1001 @@
+CaseID,CustomerID,Country,Occupation,Income,PEPStatus,SanctionStatus,RiskCategory,AMLFlag,VerifiedDocuments,ExpectedDecision,DecisionReason
+CASE_000438,C000437,India,Lawyer,6416897,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_000488,C000487,UK,Accountant,5812113,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_000528,C000527,UK,Accountant,4018462,Yes,No,High,Yes,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_000543,C000542,India,Accountant,4485941,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_000547,C000546,Russia,Consultant,3357852,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_000648,C000647,USA,Banker,8948557,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_000705,C000704,India,Banker,7573571,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_000730,C000729,India,Student,6666950,Yes,No,High,No,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_000784,C000783,Iran,Accountant,5256292,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_000985,C000984,Russia,Consultant,1585792,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_001207,C001206,UK,Business Owner,843958,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_001228,C001227,USA,Doctor,4949803,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_001386,C001385,Iran,Government Employee,9443791,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_001455,C001454,UK,Government Employee,9959190,Yes,No,High,Yes,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_001574,C001573,India,Doctor,7450811,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_001775,C001774,Iran,Business Owner,8419568,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_001786,C001785,India,Banker,827301,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_001938,C001937,Iran,Lawyer,2513153,No,No,Medium,Yes,4,Approve,Customer meets onboarding criteria
+CASE_002106,C002105,Russia,Student,2805478,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_002147,C002146,USA,Teacher,5120598,Yes,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_002198,C002197,India,Software Engineer,7458319,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_002253,C002252,Russia,Government Employee,5889866,No,No,Medium,Yes,3,Pending Documents,Insufficient verified documents
+CASE_002264,C002263,USA,Banker,3871585,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_002393,C002392,UK,Consultant,1167330,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_002473,C002472,Russia,Lawyer,911033,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_002496,C002495,Russia,Consultant,4203060,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_002896,C002895,India,Teacher,9262069,Yes,No,High,No,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_003056,C003055,UK,Business Owner,9679831,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_003172,C003171,UK,Teacher,7959448,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_003231,C003230,Iran,Banker,3761487,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_003440,C003439,India,Software Engineer,677893,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_003503,C003502,Russia,Government Employee,9129575,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_003605,C003604,Iran,Accountant,4688838,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_003611,C003610,Iran,Government Employee,8902680,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_003694,C003693,Russia,Teacher,2718639,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_003717,C003716,UK,Business Owner,7321829,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_004010,C004009,UK,Accountant,6538148,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_004131,C004130,Russia,Accountant,604779,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_004231,C004230,India,Teacher,5240007,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_004315,C004314,USA,Government Employee,6369943,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_004329,C004328,Russia,Teacher,4733811,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_004340,C004339,India,Lawyer,9345864,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_004409,C004408,India,Teacher,1999621,No,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_004452,C004451,Russia,Government Employee,8289070,Yes,No,High,Yes,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_004462,C004461,Russia,Lawyer,8651844,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_004905,C004904,USA,Consultant,2738980,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_005000,C004999,Russia,Student,4871343,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_005158,C005157,Russia,Government Employee,8036447,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_005175,C005174,India,Accountant,3607240,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_005297,C005296,USA,Student,4101414,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_005314,C005313,USA,Lawyer,9010951,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_005445,C005444,Iran,Lawyer,5248695,Yes,No,High,No,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_005515,C005514,Russia,Business Owner,717085,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_005716,C005715,Russia,Banker,8550418,Yes,No,High,Yes,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_005781,C005780,India,Government Employee,9159995,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_006091,C006090,USA,Consultant,1929804,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_006321,C006320,USA,Government Employee,4884253,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_006449,C006448,UK,Government Employee,1475166,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_006624,C006623,USA,Lawyer,8663853,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_006723,C006722,UK,Consultant,3727875,No,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_006728,C006727,Russia,Government Employee,5342203,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_007014,C007013,Russia,Software Engineer,7641670,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_007222,C007221,UK,Teacher,3438944,Yes,No,High,Yes,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_007564,C007563,UK,Teacher,4675080,Yes,No,High,No,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_007851,C007850,UK,Doctor,5778398,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_007864,C007863,India,Lawyer,5381057,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_008042,C008041,USA,Teacher,2538380,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_008214,C008213,Russia,Doctor,9063461,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_008381,C008380,Russia,Lawyer,9906397,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_008391,C008390,USA,Student,4105158,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_008423,C008422,India,Lawyer,9740102,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_008510,C008509,USA,Teacher,5705001,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_008593,C008592,India,Business Owner,8076475,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_008605,C008604,USA,Teacher,4825251,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_008695,C008694,Iran,Consultant,1252737,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_008748,C008747,Russia,Software Engineer,1844103,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_008836,C008835,Iran,Teacher,8052939,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_008931,C008930,Russia,Student,7331824,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_008979,C008978,USA,Lawyer,6324629,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_008984,C008983,USA,Lawyer,7297643,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_009029,C009028,UK,Teacher,6831148,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_009035,C009034,UK,Teacher,764151,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_009125,C009124,Russia,Doctor,5584552,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_009164,C009163,Russia,Banker,4316533,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_009293,C009292,Iran,Business Owner,8977255,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_009325,C009324,India,Lawyer,677457,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_009337,C009336,Russia,Accountant,8169594,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_009388,C009387,Russia,Government Employee,3270570,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_009398,C009397,India,Software Engineer,2384896,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_009477,C009476,Russia,Government Employee,372738,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_009479,C009478,Russia,Accountant,869747,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_009523,C009522,Iran,Teacher,1017129,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_009548,C009547,Iran,Teacher,6053266,Yes,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_009564,C009563,UK,Government Employee,3006343,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_009634,C009633,India,Student,5038077,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_009871,C009870,Iran,Government Employee,253767,Yes,No,High,Yes,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_009988,C009987,USA,Government Employee,6918709,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_010125,C010124,USA,Student,3246495,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_010264,C010263,UK,Student,3247634,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_010477,C010476,UK,Teacher,9585609,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_010527,C010526,India,Banker,6976109,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_010533,C010532,Russia,Banker,3279774,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_010623,C010622,Russia,Government Employee,1221705,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_010630,C010629,UK,Government Employee,3778791,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_010702,C010701,UK,Teacher,291858,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_010783,C010782,India,Doctor,2974063,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_010858,C010857,Russia,Doctor,4356341,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_011038,C011037,USA,Doctor,9392084,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_011317,C011316,UK,Accountant,8817019,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_011353,C011352,USA,Teacher,5625011,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_011359,C011358,Iran,Lawyer,2072686,No,No,High,Yes,3,Manual Review,High-risk customer profile
+CASE_011496,C011495,Iran,Software Engineer,9680066,No,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_011525,C011524,Iran,Business Owner,3387770,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_011679,C011678,UK,Business Owner,4784811,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_011706,C011705,India,Business Owner,638795,No,Yes,High,Yes,4,Reject,Customer appears on sanctions list
+CASE_011806,C011805,USA,Software Engineer,920095,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_011822,C011821,USA,Accountant,5969973,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_011830,C011829,UK,Banker,4107003,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_011916,C011915,Russia,Consultant,5938481,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_011941,C011940,UK,Business Owner,7063231,Yes,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_012007,C012006,USA,Banker,4694822,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_012113,C012112,UK,Lawyer,6191294,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_012166,C012165,Russia,Government Employee,4049345,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_012201,C012200,UK,Student,499116,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_012248,C012247,India,Accountant,5372802,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_012306,C012305,India,Accountant,1574755,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_012477,C012476,Iran,Banker,4328262,No,No,Medium,No,3,Pending Documents,Insufficient verified documents
+CASE_012522,C012521,Iran,Banker,6563133,No,Yes,High,Yes,5,Reject,Customer appears on sanctions list
+CASE_012659,C012658,Russia,Accountant,8062653,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_012686,C012685,Iran,Student,2833482,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_012762,C012761,UK,Lawyer,921916,Yes,No,High,Yes,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_012872,C012871,India,Government Employee,9230861,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_012896,C012895,USA,Student,9983319,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_012927,C012926,USA,Lawyer,6015718,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_013032,C013031,Russia,Banker,4863950,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_013105,C013104,Iran,Doctor,5545405,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_013149,C013148,Iran,Accountant,1259942,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_013167,C013166,India,Government Employee,4185754,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_013402,C013401,Russia,Consultant,7924140,No,No,High,Yes,4,Manual Review,High-risk customer profile
+CASE_013403,C013402,India,Business Owner,725749,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_013629,C013628,India,Government Employee,2530321,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_013698,C013697,Iran,Lawyer,9136501,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_013850,C013849,UK,Teacher,1586673,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_013857,C013856,Russia,Teacher,9904035,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_013875,C013874,India,Doctor,391990,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_013916,C013915,Iran,Doctor,7700534,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_013924,C013923,UK,Accountant,9877633,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_013928,C013927,USA,Business Owner,7756683,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_013959,C013958,India,Accountant,9423061,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_013961,C013960,UK,Business Owner,5933117,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_014032,C014031,USA,Banker,9559287,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_014279,C014278,India,Business Owner,5113348,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_014305,C014304,Iran,Software Engineer,2528650,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_014320,C014319,Iran,Accountant,9448033,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_014345,C014344,India,Student,6106946,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_014502,C014501,Iran,Student,3016011,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_014548,C014547,USA,Software Engineer,2414548,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_014741,C014740,Russia,Accountant,1530645,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_014742,C014741,India,Software Engineer,3174352,No,No,Medium,No,3,Pending Documents,Insufficient verified documents
+CASE_014789,C014788,India,Accountant,816951,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_014835,C014834,UK,Consultant,4646141,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_015040,C015039,USA,Government Employee,9815036,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_015057,C015056,India,Student,3016628,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_015107,C015106,USA,Business Owner,3355534,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_015235,C015234,USA,Accountant,8988150,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_015284,C015283,India,Consultant,9443132,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_015291,C015290,Russia,Government Employee,9743326,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_015339,C015338,Russia,Business Owner,2061637,No,No,Medium,Yes,4,Approve,Customer meets onboarding criteria
+CASE_015504,C015503,UK,Business Owner,559803,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_015514,C015513,Russia,Doctor,6051859,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_015609,C015608,USA,Government Employee,1800481,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_015722,C015721,USA,Doctor,2856922,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_015783,C015782,USA,Doctor,3965455,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_015922,C015921,UK,Student,4381861,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_015988,C015987,UK,Lawyer,3397664,Yes,No,High,Yes,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_015995,C015994,UK,Business Owner,4287759,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_016354,C016353,Russia,Teacher,3339395,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_016365,C016364,Iran,Software Engineer,8090928,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_016450,C016449,USA,Student,762469,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_016476,C016475,India,Student,6348005,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_016487,C016486,Russia,Accountant,6020448,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_016509,C016508,Russia,Software Engineer,9119542,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_016559,C016558,UK,Accountant,6072431,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_016723,C016722,Russia,Student,5208517,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_016887,C016886,Iran,Lawyer,3274443,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_016934,C016933,USA,Doctor,842676,Yes,No,High,No,3,Enhanced Due Diligence,Customer identified as PEP
+CASE_017079,C017078,Iran,Software Engineer,7706011,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_017297,C017296,UK,Government Employee,5431652,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_017326,C017325,Iran,Banker,3257694,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_017385,C017384,USA,Teacher,3997725,No,No,Medium,Yes,3,Pending Documents,Insufficient verified documents
+CASE_017389,C017388,India,Lawyer,3405823,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_017542,C017541,USA,Student,286126,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_017558,C017557,Russia,Banker,5326080,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_017612,C017611,UK,Consultant,5151513,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_017812,C017811,Iran,Business Owner,6286568,Yes,No,High,Yes,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_017818,C017817,UK,Doctor,4857966,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_017953,C017952,Iran,Doctor,5340577,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_018051,C018050,UK,Consultant,4320219,No,No,Medium,Yes,4,Approve,Customer meets onboarding criteria
+CASE_018071,C018070,Russia,Lawyer,3133927,No,No,Medium,No,3,Pending Documents,Insufficient verified documents
+CASE_018077,C018076,Russia,Software Engineer,6559330,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_018225,C018224,Russia,Lawyer,9220920,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_018338,C018337,USA,Business Owner,8622525,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_018682,C018681,Iran,Doctor,5177721,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_018772,C018771,USA,Banker,4382640,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_019139,C019138,India,Business Owner,1514520,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_019280,C019279,Russia,Consultant,7875517,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_019283,C019282,USA,Government Employee,4721308,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_019394,C019393,Iran,Lawyer,7215610,Yes,No,High,No,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_019526,C019525,Russia,Business Owner,4188410,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_019696,C019695,Iran,Consultant,9665913,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_019789,C019788,Iran,Business Owner,5420345,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_019812,C019811,Russia,Accountant,6915002,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_019863,C019862,Iran,Lawyer,2928565,No,Yes,High,Yes,5,Reject,Customer appears on sanctions list
+CASE_019948,C019947,Iran,Lawyer,705062,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_020080,C020079,UK,Government Employee,4457883,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_020140,C020139,India,Business Owner,7700024,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_020153,C020152,UK,Banker,5875680,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_020166,C020165,India,Banker,3259677,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_020173,C020172,India,Teacher,7375946,No,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_020772,C020771,Iran,Student,1761024,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_021275,C021274,UK,Doctor,6053231,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_021756,C021755,Russia,Teacher,7353898,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_021893,C021892,India,Business Owner,7316361,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_022200,C022199,Iran,Business Owner,9622313,No,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_022482,C022481,USA,Government Employee,2919340,No,Yes,High,Yes,4,Reject,Customer appears on sanctions list
+CASE_022504,C022503,India,Lawyer,645612,No,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_022554,C022553,India,Consultant,827149,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_022709,C022708,Russia,Teacher,1753144,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_022831,C022830,India,Lawyer,8626882,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_022867,C022866,UK,Teacher,9992742,No,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_023145,C023144,Russia,Government Employee,7904461,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_023171,C023170,USA,Accountant,5075195,No,Yes,High,No,4,Reject,Customer appears on sanctions list
+CASE_023195,C023194,Russia,Student,4471119,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_023460,C023459,Russia,Business Owner,536563,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_023487,C023486,UK,Business Owner,7614076,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_023505,C023504,Russia,Accountant,2790727,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_023551,C023550,Russia,Business Owner,2586625,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_023572,C023571,UK,Teacher,8544151,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_023683,C023682,Russia,Government Employee,1727428,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_023740,C023739,Russia,Consultant,6251252,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_023821,C023820,UK,Software Engineer,7511259,No,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_023891,C023890,USA,Teacher,2349914,Yes,No,High,Yes,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_023949,C023948,USA,Teacher,2318750,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_024043,C024042,USA,Student,4160719,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_024221,C024220,India,Lawyer,319141,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_024332,C024331,Russia,Lawyer,1863037,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_024454,C024453,India,Government Employee,3808625,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_024551,C024550,India,Student,5867864,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_024626,C024625,India,Consultant,6556901,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_024663,C024662,Iran,Business Owner,6079644,Yes,No,High,Yes,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_024811,C024810,Russia,Accountant,3824033,Yes,Yes,High,Yes,5,Reject,Customer appears on sanctions list
+CASE_024832,C024831,Russia,Software Engineer,9029696,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_024885,C024884,UK,Government Employee,7725613,No,Yes,High,Yes,5,Reject,Customer appears on sanctions list
+CASE_024922,C024921,Russia,Student,3597851,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_025262,C025261,Iran,Teacher,2780871,No,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_025428,C025427,UK,Accountant,9035779,No,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_025430,C025429,Russia,Doctor,7851932,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_025733,C025732,Russia,Government Employee,985977,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_025908,C025907,Iran,Banker,251900,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_026084,C026083,India,Doctor,7323320,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_026145,C026144,India,Government Employee,8496743,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_026376,C026375,Iran,Student,6595332,No,Yes,High,No,4,Reject,Customer appears on sanctions list
+CASE_026509,C026508,India,Government Employee,5896630,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_026545,C026544,Russia,Accountant,341975,No,No,Medium,Yes,4,Approve,Customer meets onboarding criteria
+CASE_026738,C026737,India,Consultant,4591008,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_026985,C026984,USA,Accountant,7387255,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_027011,C027010,Russia,Software Engineer,8769012,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_027037,C027036,India,Software Engineer,2201317,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_027047,C027046,UK,Banker,3725178,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_027272,C027271,Iran,Accountant,3107600,No,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_027387,C027386,USA,Doctor,9636481,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_027411,C027410,Russia,Government Employee,5295387,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_027418,C027417,India,Doctor,4988302,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_027466,C027465,UK,Accountant,9611354,Yes,No,High,Yes,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_027766,C027765,India,Student,1442336,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_027794,C027793,Iran,Student,2861356,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_027883,C027882,UK,Banker,4061646,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_027900,C027899,Russia,Software Engineer,8082549,No,Yes,High,No,4,Reject,Customer appears on sanctions list
+CASE_027931,C027930,UK,Software Engineer,2622962,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_028108,C028107,Iran,Consultant,1018066,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_028257,C028256,UK,Software Engineer,1659540,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_028339,C028338,India,Banker,1321169,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_028340,C028339,Russia,Business Owner,9299909,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_028488,C028487,India,Doctor,5876885,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_028573,C028572,USA,Accountant,598609,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_028644,C028643,UK,Lawyer,1104478,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_028718,C028717,USA,Software Engineer,6867680,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_028739,C028738,Iran,Doctor,1343395,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_028840,C028839,Russia,Software Engineer,451123,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_028845,C028844,Iran,Doctor,1396487,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_028901,C028900,UK,Consultant,9744583,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_029111,C029110,India,Banker,5741395,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_029261,C029260,India,Banker,8872662,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_029476,C029475,USA,Student,5122406,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_029482,C029481,Russia,Doctor,8044231,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_029581,C029580,Iran,Student,7848680,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_029687,C029686,UK,Teacher,9151806,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_029779,C029778,India,Software Engineer,3740507,Yes,No,High,Yes,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_029859,C029858,India,Doctor,6019369,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_029907,C029906,UK,Accountant,1336936,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_029927,C029926,Iran,Student,7472703,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_030009,C030008,Iran,Accountant,7950668,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_030113,C030112,Russia,Student,8103917,No,No,Low,No,3,Pending Documents,Insufficient verified documents
+CASE_030133,C030132,Russia,Business Owner,3524189,No,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_030359,C030358,Russia,Teacher,3684485,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_030456,C030455,Iran,Student,5599559,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_030632,C030631,UK,Banker,1302233,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_030789,C030788,USA,Software Engineer,4336983,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_030847,C030846,UK,Software Engineer,5666187,No,Yes,High,Yes,5,Reject,Customer appears on sanctions list
+CASE_030887,C030886,Iran,Consultant,1884699,No,Yes,High,No,4,Reject,Customer appears on sanctions list
+CASE_030952,C030951,India,Teacher,422227,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_031201,C031200,UK,Lawyer,6910360,No,Yes,High,Yes,5,Reject,Customer appears on sanctions list
+CASE_031224,C031223,Iran,Banker,4463093,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_031352,C031351,Iran,Consultant,955976,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_031365,C031364,Iran,Teacher,7019949,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_031394,C031393,UK,Business Owner,9884122,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_031476,C031475,Iran,Government Employee,3810800,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_031504,C031503,Russia,Student,5728823,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_031618,C031617,UK,Doctor,814254,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_031658,C031657,UK,Consultant,9366482,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_031694,C031693,Russia,Teacher,1392232,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_031721,C031720,Iran,Accountant,4864325,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_031851,C031850,UK,Software Engineer,1326899,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_031855,C031854,USA,Lawyer,1236491,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_031940,C031939,India,Lawyer,240027,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_032182,C032181,USA,Software Engineer,811255,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_032279,C032278,USA,Government Employee,6550444,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_032630,C032629,India,Teacher,4329553,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_032715,C032714,Iran,Doctor,2845074,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_032720,C032719,UK,Software Engineer,662341,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_032741,C032740,Iran,Software Engineer,4422027,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_032923,C032922,USA,Consultant,4476536,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_033152,C033151,Russia,Business Owner,1675839,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_033253,C033252,Russia,Business Owner,8952943,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_033277,C033276,India,Business Owner,2137493,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_033348,C033347,USA,Consultant,9487402,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_033623,C033622,USA,Accountant,2093705,No,No,Low,No,3,Pending Documents,Insufficient verified documents
+CASE_033698,C033697,UK,Banker,5751785,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_033984,C033983,India,Consultant,9820019,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_034268,C034267,USA,Banker,9705874,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_034434,C034433,USA,Teacher,5769625,No,No,High,Yes,4,Enhanced Due Diligence,High-risk customer profile
+CASE_034451,C034450,UK,Business Owner,3475304,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_035080,C035079,USA,Software Engineer,1763434,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_035114,C035113,UK,Doctor,1032810,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_035615,C035614,USA,Banker,346794,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_035890,C035889,India,Government Employee,7004137,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_035994,C035993,Russia,Doctor,1759733,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_036046,C036045,Russia,Software Engineer,3408543,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_036066,C036065,Iran,Government Employee,3236315,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_036114,C036113,USA,Banker,9701034,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_036321,C036320,UK,Business Owner,6656137,No,No,Medium,No,3,Pending Documents,Insufficient verified documents
+CASE_036327,C036326,UK,Accountant,1696430,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_036334,C036333,India,Software Engineer,5852949,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_036499,C036498,Russia,Software Engineer,7657060,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_036504,C036503,UK,Accountant,8034979,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_036615,C036614,India,Government Employee,7609677,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_036701,C036700,India,Teacher,3806837,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_036718,C036717,India,Banker,6692688,No,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_036845,C036844,Iran,Doctor,3102186,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_037082,C037081,USA,Government Employee,3183152,No,No,High,Yes,4,Manual Review,High-risk customer profile
+CASE_037132,C037131,India,Doctor,4732555,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_037204,C037203,Russia,Student,5014235,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_037231,C037230,Iran,Consultant,2267388,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_037550,C037549,India,Business Owner,985106,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_037605,C037604,Iran,Software Engineer,3748482,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_037764,C037763,USA,Accountant,5754314,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_037793,C037792,UK,Government Employee,3289560,Yes,No,High,Yes,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_037808,C037807,India,Student,6220545,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_038240,C038239,UK,Student,4103050,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_038361,C038360,Russia,Banker,8179853,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_038397,C038396,Russia,Government Employee,8943747,No,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_039018,C039017,UK,Teacher,2474197,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_039187,C039186,India,Teacher,7576270,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_039536,C039535,Iran,Business Owner,7421174,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_039850,C039849,Russia,Software Engineer,6796799,Yes,No,High,Yes,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_040062,C040061,Iran,Accountant,4306413,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_040242,C040241,India,Government Employee,8213289,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_040299,C040298,UK,Banker,9174173,No,No,High,Yes,4,Enhanced Due Diligence,High-risk customer profile
+CASE_040381,C040380,Iran,Business Owner,2868479,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_040504,C040503,India,Software Engineer,2311697,No,No,High,Yes,4,Enhanced Due Diligence,High-risk customer profile
+CASE_040545,C040544,Iran,Lawyer,2663865,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_040577,C040576,USA,Software Engineer,4377544,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_040701,C040700,India,Teacher,1962405,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_040765,C040764,Iran,Banker,5970962,No,No,High,Yes,4,Enhanced Due Diligence,High-risk customer profile
+CASE_040863,C040862,UK,Business Owner,8457916,Yes,No,High,Yes,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_041050,C041049,Iran,Consultant,6455240,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_041118,C041117,Iran,Business Owner,4744724,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_041165,C041164,Russia,Accountant,7215581,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_041269,C041268,UK,Consultant,8415596,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_041447,C041446,Iran,Doctor,3876503,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_041449,C041448,USA,Banker,279843,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_041464,C041463,UK,Accountant,1872470,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_041513,C041512,Russia,Software Engineer,1076162,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_041533,C041532,Russia,Consultant,1063600,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_041687,C041686,India,Government Employee,6199761,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_041749,C041748,Iran,Lawyer,6613290,Yes,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_041808,C041807,UK,Consultant,2933569,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_041829,C041828,UK,Student,6327424,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_042286,C042285,India,Banker,6967750,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_042376,C042375,Russia,Student,7629219,Yes,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_042732,C042731,UK,Consultant,9411533,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_042771,C042770,UK,Lawyer,1677451,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_042871,C042870,India,Accountant,5205738,Yes,No,High,No,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_042881,C042880,India,Government Employee,5091106,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_042981,C042980,India,Software Engineer,7799251,No,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_043042,C043041,India,Lawyer,8381742,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_043065,C043064,UK,Government Employee,2250632,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_043113,C043112,USA,Banker,9885475,No,No,Medium,Yes,4,Approve,Customer meets onboarding criteria
+CASE_043127,C043126,India,Student,9198771,No,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_043139,C043138,UK,Banker,9808394,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_043140,C043139,India,Government Employee,3606638,Yes,No,High,Yes,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_043198,C043197,Iran,Accountant,6458356,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_043229,C043228,USA,Accountant,3826000,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_043231,C043230,Russia,Student,2778689,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_043297,C043296,Iran,Teacher,8240169,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_043314,C043313,UK,Business Owner,3763965,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_043451,C043450,USA,Student,4644417,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_043575,C043574,USA,Accountant,7190638,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_043584,C043583,Russia,Accountant,2570679,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_043684,C043683,USA,Business Owner,7968022,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_043802,C043801,India,Banker,2877609,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_043912,C043911,Russia,Software Engineer,711570,Yes,No,High,No,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_044143,C044142,UK,Doctor,4841781,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_044145,C044144,UK,Government Employee,5143240,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_044239,C044238,UK,Software Engineer,7695360,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_044253,C044252,UK,Lawyer,3625906,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_044354,C044353,UK,Lawyer,5411438,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_044377,C044376,USA,Software Engineer,3278540,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_044381,C044380,Russia,Student,5514188,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_044583,C044582,Russia,Doctor,9676877,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_044597,C044596,UK,Software Engineer,5805884,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_044598,C044597,USA,Lawyer,3715521,Yes,No,High,No,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_044610,C044609,Iran,Student,7294168,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_044620,C044619,USA,Lawyer,8369688,No,No,Low,No,3,Pending Documents,Insufficient verified documents
+CASE_044826,C044825,UK,Consultant,4467059,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_045166,C045165,USA,Government Employee,4390742,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_045224,C045223,Russia,Student,1905585,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_045254,C045253,UK,Banker,1499912,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_045338,C045337,USA,Business Owner,4255227,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_045355,C045354,Iran,Banker,5097709,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_045379,C045378,UK,Government Employee,1446244,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_045485,C045484,UK,Business Owner,8047633,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_045561,C045560,Iran,Consultant,374914,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_045698,C045697,Russia,Lawyer,3131310,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_045763,C045762,Russia,Consultant,5739343,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_045808,C045807,Russia,Business Owner,9998341,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_045818,C045817,Russia,Government Employee,9201734,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_045850,C045849,UK,Business Owner,3200129,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_045865,C045864,Iran,Consultant,9653980,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_045888,C045887,Iran,Consultant,452422,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_045965,C045964,UK,Teacher,591092,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_046063,C046062,Russia,Student,5208527,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_046101,C046100,USA,Accountant,5779384,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_046138,C046137,Iran,Consultant,6306267,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_046231,C046230,USA,Consultant,1455695,Yes,No,High,Yes,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_046374,C046373,India,Government Employee,5793806,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_046464,C046463,UK,Doctor,3665535,Yes,Yes,High,No,4,Reject,Customer appears on sanctions list
+CASE_046493,C046492,USA,Teacher,4747932,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_046519,C046518,USA,Banker,4863362,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_046658,C046657,USA,Software Engineer,9982482,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_046697,C046696,Iran,Student,2930565,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_046737,C046736,Iran,Lawyer,8760841,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_047013,C047012,Russia,Government Employee,5853979,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_047131,C047130,Russia,Doctor,746077,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_047314,C047313,UK,Government Employee,3954374,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_047391,C047390,Russia,Software Engineer,3713356,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_047401,C047400,USA,Government Employee,5352266,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_047455,C047454,USA,Banker,8337557,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_047608,C047607,UK,Business Owner,5495807,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_047715,C047714,India,Accountant,9178032,No,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_047826,C047825,India,Consultant,6078673,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_047882,C047881,USA,Accountant,8327459,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_047920,C047919,Russia,Lawyer,5669798,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_048317,C048316,USA,Software Engineer,2345399,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_048587,C048586,UK,Doctor,6699655,Yes,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_048688,C048687,Russia,Student,8478895,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_048720,C048719,USA,Lawyer,8948764,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_048755,C048754,UK,Government Employee,7573049,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_048900,C048899,Russia,Student,9092935,Yes,Yes,High,No,4,Reject,Customer appears on sanctions list
+CASE_049030,C049029,UK,Government Employee,3307396,No,No,Low,No,3,Pending Documents,Insufficient verified documents
+CASE_049077,C049076,Russia,Consultant,3191131,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_049093,C049092,USA,Teacher,4854270,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_049112,C049111,Iran,Consultant,5285633,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_049159,C049158,UK,Business Owner,4425013,No,No,High,Yes,4,Enhanced Due Diligence,High-risk customer profile
+CASE_049309,C049308,Iran,Consultant,8009800,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_049327,C049326,India,Software Engineer,7852650,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_049546,C049545,UK,Accountant,1539797,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_049634,C049633,Russia,Student,3581926,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_049644,C049643,Russia,Doctor,4636579,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_049694,C049693,Iran,Doctor,4624047,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_049777,C049776,Russia,Software Engineer,4413183,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_050077,C050076,UK,Software Engineer,4331694,Yes,No,High,Yes,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_050114,C050113,USA,Banker,9832554,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_050163,C050162,Iran,Lawyer,7876939,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_050229,C050228,Russia,Doctor,4770366,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_050319,C050318,UK,Government Employee,9604833,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_050340,C050339,India,Business Owner,7336285,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_050391,C050390,USA,Business Owner,2349508,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_050556,C050555,USA,Software Engineer,419722,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_050805,C050804,India,Teacher,2471873,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_050819,C050818,Iran,Business Owner,5464250,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_050879,C050878,Russia,Banker,1785322,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_051168,C051167,India,Government Employee,6697324,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_051221,C051220,Russia,Government Employee,5964780,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_051274,C051273,India,Banker,2966669,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_051367,C051366,Iran,Consultant,3322987,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_051454,C051453,Iran,Banker,4103291,No,Yes,High,Yes,5,Reject,Customer appears on sanctions list
+CASE_051557,C051556,UK,Lawyer,2632791,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_051625,C051624,UK,Banker,1791525,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_051701,C051700,India,Lawyer,2215809,Yes,No,High,No,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_051816,C051815,India,Accountant,2222931,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_051900,C051899,Russia,Teacher,8418845,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_052113,C052112,Russia,Accountant,625464,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_052128,C052127,USA,Lawyer,1323091,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_052155,C052154,Iran,Software Engineer,909841,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_052200,C052199,USA,Banker,3266550,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_052637,C052636,Iran,Teacher,4782295,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_052806,C052805,UK,Consultant,3788963,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_052840,C052839,UK,Teacher,4637920,No,Yes,High,No,4,Reject,Customer appears on sanctions list
+CASE_052964,C052963,UK,Accountant,5741842,No,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_052970,C052969,Russia,Software Engineer,934410,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_053086,C053085,Iran,Accountant,6950497,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_053089,C053088,Russia,Student,5886838,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_053356,C053355,India,Lawyer,2985759,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_053396,C053395,USA,Accountant,1182866,Yes,No,High,Yes,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_053416,C053415,USA,Teacher,7906049,No,Yes,High,No,4,Reject,Customer appears on sanctions list
+CASE_053718,C053717,USA,Consultant,4530238,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_053780,C053779,UK,Lawyer,4075249,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_053839,C053838,UK,Accountant,5222680,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_053906,C053905,India,Business Owner,2585971,No,Yes,High,No,4,Reject,Customer appears on sanctions list
+CASE_053918,C053917,USA,Lawyer,9590363,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_054014,C054013,India,Government Employee,4961803,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_054087,C054086,Russia,Lawyer,3584952,No,No,Medium,Yes,4,Approve,Customer meets onboarding criteria
+CASE_054117,C054116,India,Doctor,4822359,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_054142,C054141,UK,Government Employee,6256857,No,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_054257,C054256,UK,Accountant,4124540,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_054270,C054269,Russia,Accountant,4884611,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_054315,C054314,USA,Student,2786981,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_054337,C054336,India,Doctor,2686301,Yes,No,High,No,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_054386,C054385,India,Banker,9177765,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_054695,C054694,USA,Business Owner,520763,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_054761,C054760,UK,Banker,4756685,No,Yes,High,No,4,Reject,Customer appears on sanctions list
+CASE_054878,C054877,UK,Student,8266101,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_054911,C054910,Russia,Lawyer,2566694,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_054923,C054922,USA,Banker,1639077,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_055021,C055020,USA,Student,8246882,No,Yes,High,Yes,5,Reject,Customer appears on sanctions list
+CASE_055072,C055071,Russia,Software Engineer,8143116,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_055113,C055112,India,Doctor,9894337,No,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_055114,C055113,Russia,Accountant,8212196,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_055168,C055167,India,Consultant,7435183,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_055218,C055217,USA,Lawyer,655314,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_055235,C055234,UK,Student,2477584,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_055366,C055365,India,Accountant,5753812,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_055437,C055436,Iran,Consultant,600249,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_055931,C055930,Russia,Accountant,8409429,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_056030,C056029,USA,Accountant,1805653,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_056047,C056046,India,Lawyer,7621613,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_056329,C056328,India,Accountant,3787514,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_056372,C056371,USA,Consultant,2358572,No,No,Medium,Yes,4,Approve,Customer meets onboarding criteria
+CASE_056409,C056408,Russia,Student,5200373,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_056566,C056565,USA,Teacher,2300621,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_056766,C056765,Iran,Consultant,1068113,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_056878,C056877,USA,Government Employee,4493445,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_056960,C056959,India,Banker,614337,Yes,No,High,Yes,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_057076,C057075,India,Software Engineer,9021945,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_057197,C057196,USA,Business Owner,6598139,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_057234,C057233,India,Business Owner,2684047,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_057474,C057473,Russia,Student,1201321,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_057475,C057474,Russia,Lawyer,1687880,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_057680,C057679,Iran,Banker,7174784,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_057703,C057702,Russia,Doctor,1790468,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_057762,C057761,USA,Teacher,9901531,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_057777,C057776,UK,Government Employee,3503220,Yes,No,High,Yes,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_057892,C057891,Iran,Business Owner,8130918,Yes,No,High,No,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_057968,C057967,Russia,Software Engineer,6671961,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_058330,C058329,USA,Software Engineer,5885392,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_058661,C058660,Iran,Accountant,9130991,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_058700,C058699,USA,Student,2985400,Yes,No,High,Yes,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_058707,C058706,UK,Teacher,4437452,Yes,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_058811,C058810,Iran,Banker,2390016,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_058830,C058829,Iran,Software Engineer,5294144,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_058848,C058847,India,Doctor,9251645,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_058961,C058960,USA,Government Employee,2683026,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_059147,C059146,India,Banker,9501835,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_059159,C059158,USA,Doctor,2401487,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_059183,C059182,Iran,Consultant,5239373,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_059288,C059287,Russia,Government Employee,4639754,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_059369,C059368,Russia,Banker,2263006,Yes,Yes,High,Yes,5,Reject,Customer appears on sanctions list
+CASE_059545,C059544,Russia,Business Owner,3367543,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_059576,C059575,UK,Teacher,9537389,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_059764,C059763,USA,Government Employee,4160283,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_059792,C059791,Iran,Banker,9482132,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_060006,C060005,Russia,Doctor,6222827,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_060138,C060137,UK,Teacher,8120615,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_060192,C060191,Iran,Student,2454604,No,No,High,Yes,4,Manual Review,High-risk customer profile
+CASE_060230,C060229,India,Software Engineer,2495875,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_060293,C060292,UK,Business Owner,7949598,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_060502,C060501,UK,Doctor,2538955,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_060798,C060797,Russia,Business Owner,6288473,Yes,No,High,Yes,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_061049,C061048,India,Teacher,4172699,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_061072,C061071,India,Software Engineer,8990544,No,No,Medium,Yes,4,Approve,Customer meets onboarding criteria
+CASE_061091,C061090,USA,Banker,5270090,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_061125,C061124,Iran,Business Owner,8414914,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_061237,C061236,Russia,Banker,5473928,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_061383,C061382,Iran,Doctor,6725712,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_061433,C061432,Russia,Business Owner,5437037,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_061441,C061440,India,Student,3753325,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_061570,C061569,Russia,Lawyer,5772606,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_061657,C061656,India,Teacher,2625136,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_061778,C061777,USA,Banker,7199971,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_061986,C061985,UK,Teacher,1878060,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_062223,C062222,Iran,Lawyer,5884538,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_062255,C062254,India,Consultant,5145703,No,No,High,Yes,4,Manual Review,High-risk customer profile
+CASE_062400,C062399,Iran,Business Owner,7572355,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_062401,C062400,India,Teacher,7992170,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_062519,C062518,India,Government Employee,6021621,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_062531,C062530,Iran,Banker,6338396,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_062561,C062560,Russia,Accountant,9771970,No,No,High,Yes,4,Enhanced Due Diligence,High-risk customer profile
+CASE_062599,C062598,Iran,Banker,7625136,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_062920,C062919,India,Student,7391672,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_062926,C062925,USA,Student,928844,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_063054,C063053,Iran,Software Engineer,7751785,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_063065,C063064,UK,Student,6639489,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_063076,C063075,UK,Consultant,2996577,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_063098,C063097,Iran,Government Employee,2729152,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_063103,C063102,Iran,Business Owner,5387793,Yes,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_063287,C063286,India,Consultant,4252346,No,No,High,Yes,4,Manual Review,High-risk customer profile
+CASE_063414,C063413,India,Lawyer,3451675,No,No,Medium,Yes,4,Approve,Customer meets onboarding criteria
+CASE_063437,C063436,Iran,Lawyer,6973984,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_063569,C063568,India,Student,6301079,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_063590,C063589,USA,Teacher,4445727,Yes,Yes,High,Yes,5,Reject,Customer appears on sanctions list
+CASE_063711,C063710,India,Teacher,781512,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_063760,C063759,UK,Student,548022,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_063980,C063979,UK,Government Employee,3151917,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_063992,C063991,UK,Doctor,8163547,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_064494,C064493,Iran,Doctor,5531162,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_064785,C064784,India,Lawyer,4235872,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_064805,C064804,USA,Government Employee,3697398,Yes,No,High,Yes,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_064869,C064868,Iran,Government Employee,7446382,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_064881,C064880,UK,Teacher,2925828,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_064899,C064898,India,Accountant,5830700,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_065032,C065031,UK,Teacher,9730674,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_065043,C065042,Iran,Accountant,7050413,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_065235,C065234,USA,Software Engineer,8541937,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_065492,C065491,USA,Government Employee,2655475,No,No,Medium,Yes,4,Approve,Customer meets onboarding criteria
+CASE_065524,C065523,UK,Government Employee,1890108,No,No,Medium,No,3,Pending Documents,Insufficient verified documents
+CASE_065568,C065567,India,Student,7146083,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_065609,C065608,Russia,Doctor,2135207,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_065633,C065632,India,Consultant,3846777,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_065751,C065750,India,Banker,1088409,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_065824,C065823,Iran,Doctor,4501048,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_065875,C065874,Iran,Lawyer,7839647,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_065893,C065892,Russia,Government Employee,832576,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_065920,C065919,India,Government Employee,2864590,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_066011,C066010,UK,Banker,3399863,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_066141,C066140,UK,Software Engineer,1096165,Yes,Yes,High,Yes,5,Reject,Customer appears on sanctions list
+CASE_066254,C066253,India,Software Engineer,395488,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_066366,C066365,UK,Doctor,4068149,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_066450,C066449,Iran,Software Engineer,3536698,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_066455,C066454,Iran,Student,2145763,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_066632,C066631,India,Doctor,3135183,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_066762,C066761,Russia,Business Owner,8645817,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_066819,C066818,India,Banker,4946855,Yes,No,High,No,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_066844,C066843,India,Student,2541128,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_066946,C066945,USA,Teacher,5872333,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_067148,C067147,India,Teacher,8840044,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_067267,C067266,USA,Consultant,4786753,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_067371,C067370,Russia,Banker,3672730,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_067634,C067633,UK,Banker,7955363,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_067663,C067662,UK,Software Engineer,7107725,No,No,High,Yes,4,Manual Review,High-risk customer profile
+CASE_067732,C067731,India,Business Owner,7353527,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_067766,C067765,USA,Business Owner,4247399,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_067817,C067816,India,Student,4996147,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_067956,C067955,UK,Doctor,4726333,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_068013,C068012,UK,Business Owner,3086584,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_068322,C068321,USA,Business Owner,2081694,Yes,No,High,No,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_068325,C068324,UK,Accountant,3731733,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_068353,C068352,Russia,Teacher,6352817,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_068465,C068464,Iran,Doctor,223760,No,No,Medium,Yes,3,Pending Documents,Insufficient verified documents
+CASE_068654,C068653,USA,Government Employee,9224133,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_069025,C069024,USA,Teacher,9319581,Yes,No,High,No,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_069046,C069045,USA,Consultant,7067340,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_069047,C069046,India,Software Engineer,329314,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_069064,C069063,Iran,Banker,3593623,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_069103,C069102,India,Government Employee,6810726,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_069248,C069247,USA,Government Employee,6560663,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_069382,C069381,UK,Government Employee,8930795,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_069387,C069386,Iran,Banker,6018331,Yes,No,High,Yes,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_069414,C069413,India,Banker,8707384,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_069651,C069650,USA,Business Owner,9857251,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_069719,C069718,Iran,Student,1388311,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_069857,C069856,Russia,Software Engineer,5010567,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_069889,C069888,USA,Government Employee,5142879,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_069931,C069930,USA,Banker,9094561,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_070188,C070187,Iran,Accountant,4980160,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_070579,C070578,USA,Software Engineer,2567409,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_070892,C070891,Iran,Teacher,5693949,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_070914,C070913,Iran,Banker,3601237,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_071042,C071041,UK,Accountant,5638939,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_071116,C071115,Iran,Business Owner,6085404,No,Yes,High,Yes,5,Reject,Customer appears on sanctions list
+CASE_071125,C071124,UK,Business Owner,240340,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_071133,C071132,India,Lawyer,9060538,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_071397,C071396,Russia,Doctor,9882997,No,No,Medium,Yes,3,Pending Documents,Insufficient verified documents
+CASE_071558,C071557,India,Accountant,5876636,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_071603,C071602,Russia,Lawyer,1554035,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_071614,C071613,USA,Student,2615212,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_071640,C071639,UK,Government Employee,9234513,No,No,Medium,Yes,4,Approve,Customer meets onboarding criteria
+CASE_071926,C071925,India,Software Engineer,5368858,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_071943,C071942,USA,Government Employee,8656403,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_071967,C071966,USA,Consultant,6389982,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_072109,C072108,India,Accountant,3596488,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_072111,C072110,USA,Business Owner,503484,No,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_072204,C072203,UK,Teacher,422376,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_072337,C072336,Iran,Banker,361400,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_072531,C072530,USA,Accountant,4979498,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_072567,C072566,USA,Consultant,3329756,No,No,High,Yes,3,Manual Review,High-risk customer profile
+CASE_072686,C072685,Russia,Software Engineer,2057667,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_072794,C072793,UK,Government Employee,2497676,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_072850,C072849,USA,Business Owner,2110067,Yes,No,High,No,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_072862,C072861,UK,Software Engineer,8148496,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_073114,C073113,Iran,Consultant,792718,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_073203,C073202,USA,Doctor,2592211,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_073241,C073240,Russia,Government Employee,2472014,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_073276,C073275,Iran,Banker,7693202,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_073379,C073378,Iran,Government Employee,3032155,No,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_073423,C073422,UK,Business Owner,1337606,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_073442,C073441,Russia,Business Owner,8511768,Yes,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_073479,C073478,India,Doctor,6436987,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_073570,C073569,Iran,Banker,4342316,No,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_073611,C073610,UK,Banker,9839305,Yes,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_073631,C073630,USA,Software Engineer,4209226,Yes,No,High,No,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_073639,C073638,UK,Accountant,5391608,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_073679,C073678,UK,Business Owner,1217692,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_073778,C073777,Iran,Teacher,3226450,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_074215,C074214,USA,Doctor,8974866,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_074220,C074219,USA,Business Owner,4477363,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_074238,C074237,Iran,Accountant,6047953,Yes,No,High,Yes,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_074382,C074381,India,Accountant,7041129,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_074428,C074427,USA,Student,1255051,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_074481,C074480,USA,Software Engineer,7467968,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_074864,C074863,Iran,Government Employee,7541958,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_074954,C074953,USA,Teacher,5997830,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_075083,C075082,UK,Software Engineer,9275485,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_075179,C075178,India,Teacher,2608978,No,No,Low,No,3,Pending Documents,Insufficient verified documents
+CASE_075269,C075268,Iran,Lawyer,5421015,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_075271,C075270,Iran,Banker,7705922,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_075364,C075363,Iran,Consultant,7133331,No,No,High,Yes,4,Enhanced Due Diligence,High-risk customer profile
+CASE_075817,C075816,USA,Consultant,7063368,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_075833,C075832,India,Business Owner,1733109,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_076057,C076056,USA,Doctor,7661634,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_076085,C076084,Iran,Accountant,8472777,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_076124,C076123,UK,Doctor,1549225,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_076174,C076173,Iran,Banker,1328579,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_076177,C076176,India,Lawyer,6259943,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_076343,C076342,USA,Software Engineer,8745806,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_076366,C076365,Iran,Doctor,7111552,Yes,Yes,High,No,4,Reject,Customer appears on sanctions list
+CASE_076518,C076517,India,Business Owner,4533442,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_076624,C076623,UK,Teacher,7436883,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_076715,C076714,Iran,Government Employee,1384761,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_076756,C076755,USA,Student,9286744,No,No,High,Yes,4,Enhanced Due Diligence,High-risk customer profile
+CASE_076957,C076956,Iran,Government Employee,595479,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_077099,C077098,Russia,Student,3115185,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_077106,C077105,Iran,Consultant,9654279,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_077227,C077226,USA,Consultant,7654930,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_077260,C077259,Russia,Banker,8849445,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_077276,C077275,USA,Student,3403475,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_077340,C077339,Russia,Consultant,8696847,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_077380,C077379,USA,Consultant,2349110,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_077395,C077394,Russia,Business Owner,857357,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_077550,C077549,USA,Business Owner,4309345,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_077590,C077589,Russia,Doctor,1095842,No,Yes,High,Yes,5,Reject,Customer appears on sanctions list
+CASE_077635,C077634,USA,Software Engineer,7586620,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_077655,C077654,Russia,Accountant,4592906,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_077709,C077708,USA,Doctor,5907393,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_077732,C077731,India,Teacher,3543038,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_077833,C077832,India,Banker,1030256,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_077848,C077847,USA,Student,3659566,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_077978,C077977,USA,Student,9979149,No,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_077989,C077988,India,Lawyer,4816681,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_078020,C078019,Russia,Consultant,2603318,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_078066,C078065,Iran,Accountant,9860480,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_078098,C078097,Russia,Accountant,3792604,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_078111,C078110,Iran,Teacher,8145443,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_078280,C078279,Iran,Banker,5808402,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_078344,C078343,Russia,Banker,3447857,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_078380,C078379,UK,Software Engineer,8698964,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_078523,C078522,India,Doctor,2415824,No,No,High,Yes,4,Enhanced Due Diligence,High-risk customer profile
+CASE_078736,C078735,Iran,Business Owner,3809170,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_078762,C078761,USA,Banker,3609365,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_078804,C078803,USA,Accountant,9948359,Yes,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_078829,C078828,India,Government Employee,8115140,Yes,No,High,Yes,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_078916,C078915,USA,Government Employee,1309019,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_078972,C078971,India,Student,538761,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_078990,C078989,India,Consultant,8523040,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_079267,C079266,UK,Accountant,5112747,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_079271,C079270,Russia,Software Engineer,5154894,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_079320,C079319,Iran,Banker,7571500,Yes,No,High,No,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_079698,C079697,Iran,Lawyer,3002664,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_079743,C079742,USA,Business Owner,8446208,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_079746,C079745,USA,Government Employee,6774096,No,Yes,High,Yes,4,Reject,Customer appears on sanctions list
+CASE_079768,C079767,Iran,Government Employee,251753,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_079837,C079836,India,Business Owner,3980384,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_079879,C079878,Russia,Lawyer,4158979,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_079950,C079949,Iran,Consultant,3147480,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_079953,C079952,India,Accountant,5103860,No,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_079985,C079984,India,Student,5592823,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_080012,C080011,UK,Doctor,5683018,No,Yes,High,Yes,4,Reject,Customer appears on sanctions list
+CASE_080030,C080029,UK,Teacher,7319370,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_080161,C080160,USA,Consultant,2865918,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_080188,C080187,UK,Software Engineer,9355301,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_080241,C080240,India,Business Owner,5952999,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_080289,C080288,USA,Business Owner,7823557,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_080704,C080703,UK,Student,213475,No,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_080724,C080723,India,Consultant,9430862,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_081240,C081239,UK,Software Engineer,3345216,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_081261,C081260,Iran,Teacher,9936068,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_081469,C081468,UK,Lawyer,7021101,Yes,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_081477,C081476,India,Software Engineer,6759187,Yes,No,High,Yes,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_081500,C081499,India,Lawyer,7914779,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_081871,C081870,Russia,Government Employee,9778780,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_081875,C081874,India,Doctor,5348743,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_081967,C081966,Russia,Consultant,4877499,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_082053,C082052,India,Student,1438174,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_082074,C082073,UK,Accountant,444953,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_082128,C082127,Russia,Software Engineer,1804674,No,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_082280,C082279,USA,Business Owner,5825012,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_082370,C082369,Iran,Software Engineer,712807,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_082427,C082426,India,Lawyer,6888190,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_082452,C082451,Russia,Lawyer,5581022,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_082469,C082468,UK,Teacher,4955568,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_082506,C082505,USA,Software Engineer,5348166,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_082514,C082513,USA,Software Engineer,6747418,No,Yes,High,Yes,5,Reject,Customer appears on sanctions list
+CASE_082526,C082525,India,Banker,1248133,Yes,No,High,Yes,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_082603,C082602,USA,Student,3348169,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_082722,C082721,Russia,Lawyer,8276968,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_082998,C082997,India,Accountant,3456700,Yes,No,High,Yes,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_083046,C083045,Iran,Teacher,8495814,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_083152,C083151,Russia,Student,9461443,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_083370,C083369,Iran,Teacher,3746884,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_083406,C083405,UK,Banker,7998694,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_083536,C083535,USA,Business Owner,3449454,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_083625,C083624,Iran,Banker,9760035,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_083677,C083676,Russia,Banker,1708654,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_083688,C083687,Iran,Business Owner,1149465,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_083981,C083980,USA,Student,7353343,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_084012,C084011,Iran,Consultant,7513233,Yes,No,High,No,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_084024,C084023,USA,Business Owner,597703,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_084255,C084254,Iran,Consultant,5673838,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_084271,C084270,Russia,Consultant,5992665,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_084381,C084380,India,Doctor,3389549,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_084444,C084443,India,Teacher,8620987,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_084499,C084498,Russia,Software Engineer,9895973,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_084560,C084559,Russia,Consultant,4848732,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_084612,C084611,Russia,Teacher,9022956,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_084739,C084738,UK,Government Employee,4797200,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_084760,C084759,UK,Teacher,9043121,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_084819,C084818,UK,Software Engineer,6253405,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_084841,C084840,Iran,Consultant,995870,Yes,No,High,Yes,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_084867,C084866,Iran,Lawyer,7520194,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_085003,C085002,Iran,Business Owner,2418631,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_085004,C085003,Russia,Doctor,323529,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_085007,C085006,Iran,Government Employee,7203355,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_085013,C085012,Iran,Student,3156462,No,No,High,Yes,4,Enhanced Due Diligence,High-risk customer profile
+CASE_085115,C085114,UK,Software Engineer,1400030,Yes,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_085294,C085293,UK,Banker,632149,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_085423,C085422,USA,Doctor,1167566,Yes,No,High,No,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_085787,C085786,USA,Lawyer,4834811,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_085937,C085936,Iran,Student,3839808,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_086197,C086196,UK,Consultant,6917075,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_086319,C086318,India,Government Employee,3974480,No,No,High,Yes,4,Enhanced Due Diligence,High-risk customer profile
+CASE_086334,C086333,Iran,Student,2450078,No,No,High,Yes,4,Manual Review,High-risk customer profile
+CASE_086928,C086927,USA,Teacher,4421267,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_087114,C087113,USA,Accountant,9095201,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_087201,C087200,USA,Business Owner,3139472,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_087602,C087601,Iran,Business Owner,4378195,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_087738,C087737,USA,Student,9107633,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_087755,C087754,Iran,Consultant,7801883,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_087933,C087932,UK,Lawyer,2365879,Yes,No,High,Yes,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_088076,C088075,Iran,Banker,5152713,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_088330,C088329,Russia,Consultant,3792687,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_088462,C088461,India,Business Owner,5687462,No,No,Medium,No,3,Pending Documents,Insufficient verified documents
+CASE_088511,C088510,UK,Government Employee,5935812,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_088525,C088524,Russia,Software Engineer,4864450,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_088596,C088595,India,Student,8601556,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_088647,C088646,UK,Banker,6912638,No,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_088777,C088776,USA,Banker,8117837,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_088979,C088978,UK,Consultant,1608395,Yes,No,High,Yes,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_088993,C088992,USA,Business Owner,3740526,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_088996,C088995,UK,Student,8819855,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_089323,C089322,Iran,Business Owner,8958622,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_089550,C089549,Iran,Teacher,8511829,No,Yes,High,No,4,Reject,Customer appears on sanctions list
+CASE_089557,C089556,USA,Accountant,3864721,No,No,Medium,Yes,4,Approve,Customer meets onboarding criteria
+CASE_089604,C089603,Iran,Doctor,5996130,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_089709,C089708,USA,Teacher,3589425,Yes,No,High,No,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_089898,C089897,Russia,Government Employee,1742545,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_089961,C089960,UK,Lawyer,9197632,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_090134,C090133,UK,Accountant,6312934,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_090801,C090800,Iran,Business Owner,9047170,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_090919,C090918,UK,Doctor,3210388,Yes,No,High,Yes,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_090982,C090981,Russia,Teacher,1956376,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_090988,C090987,Russia,Business Owner,6721580,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_091096,C091095,Iran,Software Engineer,3718492,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_091307,C091306,India,Consultant,1572854,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_091320,C091319,India,Software Engineer,9548066,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_091387,C091386,Iran,Software Engineer,8677007,No,No,Medium,Yes,3,Pending Documents,Insufficient verified documents
+CASE_091590,C091589,Iran,Business Owner,9359776,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_091665,C091664,UK,Teacher,8915708,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_091750,C091749,USA,Consultant,1574482,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_091772,C091771,Iran,Doctor,7768780,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_091832,C091831,USA,Student,8774502,Yes,No,High,No,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_091900,C091899,USA,Accountant,8725890,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_091917,C091916,UK,Banker,6595366,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_091975,C091974,Iran,Consultant,5347028,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_092018,C092017,USA,Government Employee,9953818,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_092102,C092101,UK,Accountant,2719267,Yes,No,High,No,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_092184,C092183,USA,Business Owner,4426136,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_092191,C092190,India,Lawyer,3093522,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_092214,C092213,USA,Banker,4128253,Yes,No,High,Yes,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_092235,C092234,UK,Business Owner,6931158,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_092652,C092651,India,Doctor,404508,Yes,No,High,No,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_092808,C092807,Iran,Government Employee,484945,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_092848,C092847,Iran,Software Engineer,3714989,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_092852,C092851,USA,Software Engineer,5092860,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_092865,C092864,USA,Consultant,1889395,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_092886,C092885,UK,Banker,7745437,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_092995,C092994,USA,Banker,1855087,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_093037,C093036,Russia,Business Owner,3351504,Yes,No,High,Yes,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_093103,C093102,Iran,Government Employee,9749944,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_093114,C093113,UK,Doctor,3732496,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_093167,C093166,Iran,Doctor,969438,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_093237,C093236,Russia,Accountant,9082987,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_093295,C093294,India,Accountant,897606,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_093383,C093382,UK,Software Engineer,6352095,Yes,No,High,No,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_093394,C093393,USA,Accountant,9453677,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_094000,C093999,India,Lawyer,1725760,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_094189,C094188,USA,Accountant,9927291,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_094314,C094313,Russia,Teacher,2023277,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_094478,C094477,India,Consultant,8320290,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_094533,C094532,UK,Software Engineer,3347915,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_094545,C094544,UK,Student,4445948,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_094662,C094661,UK,Software Engineer,1323749,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_094682,C094681,India,Doctor,9377576,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_094703,C094702,USA,Teacher,6335612,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_094737,C094736,USA,Software Engineer,4630487,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_094882,C094881,Iran,Banker,3759501,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_094907,C094906,India,Accountant,8912113,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_094938,C094937,India,Banker,6150749,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_095035,C095034,Iran,Software Engineer,3794082,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_095161,C095160,UK,Student,3776613,No,No,High,Yes,4,Manual Review,High-risk customer profile
+CASE_095197,C095196,Iran,Lawyer,5623920,Yes,No,High,Yes,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_095421,C095420,USA,Government Employee,3464209,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_095450,C095449,UK,Accountant,5759846,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_095502,C095501,Iran,Business Owner,1890520,Yes,No,High,Yes,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_095586,C095585,India,Banker,8099710,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_095683,C095682,USA,Banker,9732977,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_095690,C095689,Russia,Business Owner,2444121,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_095713,C095712,USA,Software Engineer,9190840,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_095784,C095783,Iran,Doctor,8646325,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_095846,C095845,India,Teacher,8745274,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_095891,C095890,India,Accountant,3444118,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_096108,C096107,Russia,Government Employee,8459420,No,No,High,Yes,5,Enhanced Due Diligence,High-risk customer profile
+CASE_096144,C096143,Russia,Business Owner,1219414,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_096151,C096150,USA,Lawyer,9115909,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_096177,C096176,India,Government Employee,2148420,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_096178,C096177,Russia,Business Owner,7053087,Yes,No,High,Yes,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_096313,C096312,India,Lawyer,1549871,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_096321,C096320,Iran,Business Owner,4004346,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_096366,C096365,UK,Consultant,2865125,Yes,No,High,No,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_096599,C096598,Russia,Accountant,8410776,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_096604,C096603,USA,Government Employee,3563187,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_096635,C096634,Iran,Software Engineer,3688079,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_096686,C096685,USA,Lawyer,8098003,No,Yes,High,Yes,5,Reject,Customer appears on sanctions list
+CASE_096769,C096768,Iran,Lawyer,3029353,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_096858,C096857,Russia,Doctor,3893523,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_097107,C097106,Russia,Government Employee,2541978,No,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_097289,C097288,Iran,Software Engineer,1389638,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_097430,C097429,UK,Banker,1961291,Yes,No,High,No,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_097560,C097559,UK,Teacher,538219,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_097859,C097858,India,Student,8768913,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_097917,C097916,India,Student,2439262,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_097919,C097918,India,Student,9926182,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_098005,C098004,UK,Accountant,6649726,No,No,Medium,Yes,4,Approve,Customer meets onboarding criteria
+CASE_098241,C098240,Russia,Lawyer,2851261,No,No,High,Yes,4,Manual Review,High-risk customer profile
+CASE_098418,C098417,India,Consultant,6962670,No,No,Low,No,5,Approve,Customer meets onboarding criteria
+CASE_098439,C098438,UK,Banker,8598407,No,No,Low,No,4,Approve,Customer meets onboarding criteria
+CASE_098491,C098490,India,Doctor,3629753,No,No,High,Yes,5,Manual Review,High-risk customer profile
+CASE_098599,C098598,Russia,Lawyer,3308638,No,No,Medium,No,4,Approve,Customer meets onboarding criteria
+CASE_098775,C098774,India,Software Engineer,665826,No,No,Medium,Yes,4,Approve,Customer meets onboarding criteria
+CASE_098972,C098971,USA,Consultant,2247262,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_099205,C099204,UK,Banker,3424035,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_099359,C099358,Russia,Lawyer,5610444,Yes,No,High,No,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_099403,C099402,UK,Software Engineer,6747648,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_099502,C099501,UK,Consultant,5736497,No,Yes,High,No,5,Reject,Customer appears on sanctions list
+CASE_099515,C099514,UK,Lawyer,9638158,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_099531,C099530,USA,Consultant,2156550,Yes,No,High,Yes,5,Enhanced Due Diligence,Customer identified as PEP
+CASE_099679,C099678,USA,Government Employee,6110405,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_099731,C099730,India,Business Owner,3369578,No,No,Medium,Yes,5,Approve,Customer meets onboarding criteria
+CASE_099802,C099801,India,Lawyer,2431100,No,No,Medium,No,5,Approve,Customer meets onboarding criteria
+CASE_099804,C099803,Iran,Software Engineer,952648,Yes,No,High,No,4,Enhanced Due Diligence,Customer identified as PEP
+CASE_099973,C099972,Iran,Lawyer,7133511,No,No,High,Yes,5,Manual Review,High-risk customer profile

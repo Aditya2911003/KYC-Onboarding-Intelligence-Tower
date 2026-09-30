@@ -1,0 +1,20 @@
+# Power BI classic look; the app also injects CSS from app/theme.py.
+[theme]
+base = "light"
+primaryColor = "#01B8AA"
+backgroundColor = "#EAEAEA"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#252423"
+font = "sans serif"
+
+[server]
+headless = true
+runOnSave = false
+maxUploadSize = 5
+
+[client]
+toolbarMode = "minimal"
+showErrorDetails = "full"
+
+[browser]
+gatherUsageStats = false
